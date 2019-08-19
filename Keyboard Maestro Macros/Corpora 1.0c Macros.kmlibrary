@@ -5634,7 +5634,49 @@
 									<key>StopOnFailure</key>
 									<false/>
 									<key>Text</key>
-									<string>-- Bernardo César Diniz Athayde Vasconcelos-- 2019-08-19 17:48use AppleScript version "2.4" -- Yosemite (10.10) or lateruse scripting additionstell application id "DNtp"	try		set theSelection to selection		if theSelection is {} then error "Select an item, please"				repeat with thisItem in theSelection						tell application id "KM*E"				set theAuthor to ""				set theAuthor to value of variable "record_author"								set theWork to ""				set theWork to value of variable "record_work"								set theTags to ""				set theTags to value of variable "dt3_tags"								set Tlg_Code to ""				set Tlg_Code to value of variable "tlg_reference"			end tell						set the name of item 1 of theSelection to theWork						set theTags2 to theTags &amp; ", " &amp; theWork &amp; ", " &amp; theAuthor						set the tags of item 1 of theSelection to theTags2 as string						try				add custom meta data theAuthor for "Authors" to item 1 of theSelection				add custom meta data theWork for "Title" to item 1 of theSelection				add custom meta data Tlg_Code for "TLG" to item 1 of theSelection			end try					end repeat	end tryend tell</string>
+									<string>-- Bernardo César Diniz Athayde Vasconcelos
+-- 2019-08-19 17:48
+
+use AppleScript version "2.4" -- Yosemite (10.10) or later
+use scripting additions
+
+tell application id "DNtp"
+	try
+		set theSelection to selection
+		if theSelection is {} then error "Select an item, please"
+		
+		repeat with thisItem in theSelection
+			
+			tell application id "KM*E"
+				set theAuthor to ""
+				set theAuthor to value of variable "record_author"
+				
+				set theWork to ""
+				set theWork to value of variable "record_work"
+				
+				set theTags to ""
+				set theTags to value of variable "dt3_tags"
+				
+				set Tlg_Code to ""
+				set Tlg_Code to value of variable "tlg_reference"
+			end tell
+			
+			set the name of item 1 of theSelection to theWork
+			
+			set theTags2 to theTags &amp; ", " &amp; theWork &amp; ", " &amp; theAuthor
+			
+			set the tags of item 1 of theSelection to theTags2 as string
+			
+			try
+				add custom meta data theAuthor for "Authors" to item 1 of theSelection
+				add custom meta data theWork for "Title" to item 1 of theSelection
+				add custom meta data Tlg_Code for "TLG" to item 1 of theSelection
+			end try
+			
+		end repeat
+	end try
+end tell
+</string>
 									<key>TimeOutAbortsMacro</key>
 									<true/>
 									<key>TrimResults</key>
