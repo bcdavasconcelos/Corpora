@@ -57,9 +57,9 @@ For a demonstration, watch this [video](https://youtu.be/90hw0ER2bBQ).
 * A brand-new macro was created, and a lot of work was put into this. Both macros (TLG Macro and LOEB Macro) are now united and working perfectly in Alfred-style.
 
 <p align="center">  
-<img src="https://www.dropbox.com/s/1c0swjm6qolp2f9/corpora.png?dl=0" alt="Prompt for Author or Work" width="70%" height="70%">
- </p>  
-
+<img src="corpora.png" width="70%" height="70%">
+ </p>
+ 
 * Dependencies on third party plug-ins were eliminated!
 
 * DT3: Author and work names, TLG code and tags are set automatically via Applescript. This relies on a new Keyboard Maestro 9.0 feature for JSON dictionaries.
