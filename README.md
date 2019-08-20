@@ -6,8 +6,8 @@
 
 ## How to use it
 
-Again: **If you just need the workflow for quick access to TLG and LOEB, you can use either the Keyboard Maestro macro or the Alfred Workflow: it’s up to you.**
-**For integration with DEVONthink, you’ll need to install the Keyboard Maestro macros.**
+*If you just need the workflow for quick access to TLG and LOEB, you can use either the Keyboard Maestro macro or the Alfred Workflow: it’s up to you.*
+*For integration with DEVONthink, you’ll need to install the Keyboard Maestro macros.*
 
 ### On Keyboard Maestro
 * Import the library and make sure the macros are enabled.
