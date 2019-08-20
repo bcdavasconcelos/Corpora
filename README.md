@@ -2,7 +2,11 @@
 
   
 To download the workflows, go to the [releases page](https://github.com/bcdavasconcelos/Corpora/releases).
-  
+
+<p align="center">  
+<img src="corpora1.png" width="70%" height="70%">
+ </p>
+
 
 ## How to use it
 
@@ -19,6 +23,11 @@ To download the workflows, go to the [releases page](https://github.com/bcdavasc
 * Choose whether you want to open this link on the default browser or store it on DEVONthink 3.
 * You'll be taken directly to the text.
 
+<p align="center">  
+<img src="corpora2.png" width="70%" height="70%">
+ </p>
+
+
 ### On Alfred
 * Type _z_ and _space_ (You can edit the keyword to activate the workflow as you please)
 * Enter search term. Using the arrows, select one.
@@ -27,6 +36,10 @@ To download the workflows, go to the [releases page](https://github.com/bcdavasc
 	* By pressing ⌘⏎ you’ll save the reference to DEVONthink.
 	* By pressing ⇧⏎ you’ll open offline version.
 	* By pressing ⌥⏎ you’ll save the reference of the offline version to DEVONthink.
+
+ <p align="center">  
+<img src="corpora3.png" width="70%" height="70%">
+ </p>
 
 For a demonstration, watch this [video](https://youtu.be/90hw0ER2bBQ).
 
