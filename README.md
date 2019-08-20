@@ -1,6 +1,8 @@
 # Corpora - Workflows for fast access to _Thesaurus Linguae Graecae_ and _LOEB Classical Library_  
 
-To download the workflows, do to the [releases page](https://github.com/bcdavasconcelos/Corpora/releases).
+  
+To download the workflows, go to the [releases page](https://github.com/bcdavasconcelos/Corpora/releases).
+  
 
 ## How to use it
 
