@@ -11,7 +11,7 @@ Again: **If you just need the workflow for quick access to TLG and LOEB, you can
 
 ### On Keyboard Maestro
 * Import the library and make sure the macros are enabled.
-* Follow the instructions on the macro on how to set it up properly: you’ll need to provide the path to the folder where the LOEB offline files are (in case you intend to use it), and the path to the folders where you want the records to be created and stored on DEVONthink (in case you are using this software as well).
+* Follow the instructions on the macro on how to set it up properly: you’ll need to provide the path to the folder where the LOEB offline files are (in case you intend to use it), and the path to the folders where you want the records to be created and stored on DEVONthink, in case you are using this software as well. These are the *x-devonthink...* links.
 * Trigger the macro with the choosen shortcut.
 * You'll see a prompt for authors and works containning both TLG and LOEB Classical Library volumes. 
 * Enter search term, then using the arrows, select one and press return.
