@@ -44,7 +44,7 @@ For a demonstration, watch this [video](https://youtu.be/90hw0ER2bBQ).
 * A brand-new macro was created, and a lot of work was put into this. Both macros (TLG Macro and LOEB Macro) are now united and working perfectly in Alfred-style.
 
 <p align="center">  
-<img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/corpora.png" alt="Prompt for Author or Work" width="70%" height="70%">
+<img src="https://www.dropbox.com/s/1c0swjm6qolp2f9/corpora.png?dl=0" alt="Prompt for Author or Work" width="70%" height="70%">
  </p>  
 
 * Dependencies on third party plug-ins were eliminated!
