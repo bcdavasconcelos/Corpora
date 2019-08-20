@@ -1,4 +1,4 @@
-# Corpora - Workflows for fast access to the _Thesaurus Linguae Graecae_ and the _LOEB Classical Library_  
+# Corpora - Workflows for fast access to _Thesaurus Linguae Graecae_ and _LOEB Classical Library_  
 
 - **Corpora** has two different workflows on different software in order to access TLG and LOEB.  
 - Both this software, namely, [Alfred](https://www.alfredapp.com) and [Keyboard Maestro](https://www.keyboardmaestro.com), are highly recommended. You can use either one of them.  
