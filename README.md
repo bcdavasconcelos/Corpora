@@ -1,8 +1,8 @@
 # Corpora - Workflows for fast access to the _Thesaurus Linguae Graecae_ and the _LOEB Classical Library_  
 
-**Corpora** has two different workflows on different softwares in order to access TLG and LOEB.  
-Both this softwares, namely, [Alfred](https://www.alfredapp.com) and [Keyboard Maestro](https://www.keyboardmaestro.com), are highly recommended. You can use either one of them.  
-_**Only if**_ you need integration with [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink), then you necessarely need the Keyboard Maestro macros. For DEVONthink, **Corpora** has an applescript to set _Author Name_, _Work Title_, _TLG Code or LOEB Link_ and _tags_ automatically.  
+- **Corpora** has two different workflows on different softwares in order to access TLG and LOEB.  
+- Both this softwares, namely, [Alfred](https://www.alfredapp.com) and [Keyboard Maestro](https://www.keyboardmaestro.com), are highly recommended. You can use either one of them.  
+- _**Only if**_ you need integration with [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink), then you necessarely need the Keyboard Maestro macros. For DEVONthink, **Corpora** has an applescript to set _Author Name_, _Work Title_, _TLG Code or LOEB Link_ and _tags_ automatically.  
 
 ## How to use it
 
