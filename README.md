@@ -4,7 +4,7 @@
 To download the workflows, go to the [releases page](https://github.com/bcdavasconcelos/Corpora/releases).
 
 <p align="center">  
-<img src="corpora1.png" width="70%" height="70%">
+<img src="imgs/corpora1.png" width="70%" height="70%">
  </p>
 
 
@@ -24,7 +24,7 @@ To download the workflows, go to the [releases page](https://github.com/bcdavasc
 * You'll be taken directly to the text.
 
 <p align="center">  
-<img src="corpora2.png" width="70%" height="70%">
+<img src="imgs/corpora2.png" width="70%" height="70%">
  </p>
 
 
@@ -38,7 +38,7 @@ To download the workflows, go to the [releases page](https://github.com/bcdavasc
 	* By pressing ⌥⏎ you’ll save the reference of the offline version to DEVONthink.
 
  <p align="center">  
-<img src="corpora3.png" width="70%" height="70%">
+<img src="imgs/corpora3.png" width="70%" height="70%">
  </p>
 
 For a demonstration, watch this [video](https://youtu.be/90hw0ER2bBQ).
@@ -57,7 +57,7 @@ For a demonstration, watch this [video](https://youtu.be/90hw0ER2bBQ).
 * A brand-new macro was created, and a lot of work was put into this. Both macros (TLG Macro and LOEB Macro) are now united and working perfectly in Alfred-style.
 
 <p align="center">  
-<img src="corpora.png" width="70%" height="70%">
+<img src="imgs/corpora.png" width="70%" height="70%">
  </p>
  
 * Dependencies on third party plug-ins were eliminated!
