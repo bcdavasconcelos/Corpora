@@ -1,8 +1,16 @@
 # Corpora - Workflows for fast access to the _Thesaurus Linguae Graecae_ and the _LOEB Classical Library_  
 
-*Corpora* is the plural form of *corpus*, a word that according to the American Heritage dictionary, means *"a large collection of writings of a specific kind or on a specific subject"*. The ideia of this repository is to make available different workflows that I have developed while working with these *corpora* of text, that is, TLG and LOEB. Hopefully they will be useful to others working on themes related to antiquity.
+*Corpora* is the plural form of *corpus*, a word that according to the American Heritage dictionary means *"a large collection of writings of a specific kind or on a specific subject"*. The ideia of this repository is to make available different workflows that I have developed while working with these *corpora* of text, that is, TLG and LOEB. Hopefully they will be useful to others working on themes related to antiquity.  
 
-The first release has to do with accessing the texts quickly and directly (no more waiting for pages to load, opening the search online and so on). With them I can simply press ⌘ Space to see a complete list of the contents of these *corpora*. I will select one of them and it will automatically take me to the text that I want to see. If you happen to use Diogenes, all you have to do is press ⇧⏎ and you will open the text taken from your Diogenes data base on your browser (and the same applies for LOEB). There are some other funciontions related to DEVONthink 3, but there is mystery to them. Simply press ⌘⏎ to open and save the link on DT3. A applescript will copy part of the relevant metadata automatically. 
+The first release has to do with accessing the texts quickly and directly (thus shortening the time it would take for you to go online, hit the search, type, wait for results and choose a text). With these workflows, I can simply press `⌘Space` and start typing whatever it is that I am looking for to see a list of possible results from the TLG and LOEB databases. After finding the entry, I can either i. hit `⏎` to open the text online or ii. hit `⇧⏎` to open it offline (in case you have Diogenes installed).   
+
+There are also some functions related to a software called [DEVONthink](https://www.devontechnologies.com/apps/devonthink). I highly recommend checking it out. I have written about how I use it [here](https://medium.com/clássicos-digitais/how-i-use-wiki-links-and-aliases-in-devonthink-to-read-aristotle-e68d4dfc0409). There is no mystery to these functions. If you hit `⌘⏎` the online page with the text will be open and stored in DEVONthink and an applescript I wrote will add metadata to it (such as author name, work title, tlg code and tags). Likewise, if you hit `⌥⏎` the page opened will be the offline instead.  
+
+**What is next?**  
+Every time I import a text to DEVONthink I need to format it according to my needs. To do so, I use several text manipulation macros which I will begin to share shortly.
+
+**After that?**  
+This will depend a lot on finding time to acquire the skills necessary to create new functions and improve old ones. This is a work in progress.
 
 To download the workflows, go to the [releases page](https://github.com/bcdavasconcelos/Corpora/releases).
 
