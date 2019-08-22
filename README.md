@@ -1,6 +1,9 @@
-# Corpora - Workflows for fast access to _Thesaurus Linguae Graecae_ and _LOEB Classical Library_  
+# Corpora - Workflows for fast access to the _Thesaurus Linguae Graecae_ and the _LOEB Classical Library_  
 
-  
+*Corpora* is the plural form of *corpus*, a word that, according to the American Heritage dictionary, means *"a large collection of writings of a specific kind or on a specific subject"*. The ideia of this repository is to make available different workflows that I have developed while working with these *corpora* of text, that is, TLG and LOEB. Hopefully they will be useful to others working on themes related to antiquity.
+
+The first release has to do with accessing the texts quickly and directly (no more waiting for pages to load, opening the search online and so on). With them I can simply press ⌘ Space to see a complete list of the contents of these *corpora*. I will select one of them and it will automatically take me to the text that I want to see. If you happen to use Diogenes, all you have to do is press ⇧⏎ and you will open the text taken from your Diogenes data base on your browser (and the same applies for LOEB). There are some other funciontions related to DEVONthink 3, but there is mystery to them. Simply press ⌘⏎ to open and save the link on DT3. A applescript will copy part of the relevant metadata automatically. 
+
 To download the workflows, go to the [releases page](https://github.com/bcdavasconcelos/Corpora/releases).
 
 <p align="center">  
@@ -59,7 +62,7 @@ For a demonstration, watch this [video](https://youtu.be/90hw0ER2bBQ).
 <p align="center">  
 <img src="imgs/corpora.png" width="70%" height="70%">
  </p>
- 
+
 * Dependencies on third party plug-ins were eliminated!
 
 * DT3: Author and work names, TLG code and tags are set automatically via Applescript. This relies on a new Keyboard Maestro 9.0 feature for JSON dictionaries.

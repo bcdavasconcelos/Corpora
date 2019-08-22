@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
+<<<<<<< HEAD
 logo: /imgs/logo.png
+=======
+logo: "/imgs/logo1.jpg"
+>>>>>>> master
 show_downloads: "true"
