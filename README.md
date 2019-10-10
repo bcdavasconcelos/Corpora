@@ -60,6 +60,11 @@ To download the workflows, go to the [releases page](https://github.com/bcdavasc
 For a demonstration, watch this [video](https://youtu.be/90hw0ER2bBQ).
 
 ## What's new?
+### 2019-10-10
+* Added 4405 new TLG entries
+* Added 3011 new pre-socratic fragments (linked to Daphnet)
+
+**There are now 10160 search items in the database**
 
 ### 2019-08-28
 #### Corpora 1.0.4 for Alfred is out.
