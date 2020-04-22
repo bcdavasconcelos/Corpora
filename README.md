@@ -14,8 +14,8 @@ Every time I import a text to DEVONthink I need to format it according to my nee
 **After that?**  
 This will depend a lot on finding time to acquire the skills necessary to create new functions and improve old ones. This is a work in progress.
 
-To download the workflows, go to the [releases page](https://github.com/bcdavasconcelos/Corpora/releases).
-2020-04-22: [Corpora now has its own packal page](http://www.packal.org/workflow/corpora). From now on, the updates will focus solely on the Alfred version.
+To download the workflows, go to the [releases page](https://github.com/bcdavasconcelos/Corpora/releases).  
+2020-04-22: [Corpora now has its own packal page](http://www.packal.org/workflow/corpora). Also, from now on, the updates will focus solely on the Alfred version.
 
 <p align="center">  
 <img src="imgs/corpora1.png" width="70%" height="70%">
