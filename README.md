@@ -1,6 +1,6 @@
 # Corpora - Workflows for fast access to the _Thesaurus Linguae Graecae_ and the _LOEB Classical Library_  
 
-Corpora is the plural form of corpus, a word that means denotes a large collection of writings of a specific kind or on a specific subject. The ideia of this repository is to make available different workflows that I have developed while working with these corpora of text, that is, TLG and LOEB. Hopefully they will be useful to others working on themes related to antiquity.
+Corpora is the plural form of corpus, a word that denotes a large collection of writings of a specific kind or on a specific subject. The ideia of this repository is to make available different workflows that I have developed while working with these corpora of text, that is, TLG and LOEB. Hopefully they will be useful to others working on themes related to antiquity.
 
 The first release (MacOS only) has to do with accessing the texts quickly and directly (thus shortening the time it would take for you to go online, hit the search, type, wait for results and choose a text). With these workflows, I can simply press ⌘Space (to open Alfred) and start typing whatever it is that I am looking for to see a list of possible results from the TLG and LOEB databases. After finding the entry, I can either i. hit ⌘⏎ to open the text online or ii. hit ⌃⏎ to open it offline (in case you have Diogenes installed).
 
