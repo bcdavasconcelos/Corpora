@@ -51,7 +51,6 @@ WARNING: Databases may be subject to licensing restrictions.
 
 <p align="center"><img src="imgs/corpora1.png" width="70%" height="70%"></p>
 
-<p align="center"><img src="imgs/corpora2.png" width="70%" height="70%"></p>
 
 <p align="center"><img src="imgs/corpora3.png" width="70%" height="70%"></p>
 
