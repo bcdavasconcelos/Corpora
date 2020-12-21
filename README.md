@@ -1,6 +1,7 @@
+# Corpora   
+
 <a href="https://zenodo.org/badge/latestdoi/203262872"><img src="https://zenodo.org/badge/203262872.svg" alt="DOI"></a>
 
-# Corpora   
 Alfred workflow and Keyboard Maestro macro for fast access to _Perseus Catalog_, _Thesaurus Linguae Graecae_ and _LOEB Classical Library_ 
 
 "TLG" will start a search for tlg texts and give you the following options:
