@@ -1,6 +1,6 @@
 # Corpora   
 
-<a href="https://zenodo.org/badge/latestdoi/203262872"><img src="https://zenodo.org/badge/203262872.svg" alt="DOI"></a>
+<a href="https://zenodo.org/badge/latestdoi/203262872"><img src="https://zenodo.org/badge/203262872.svg" alt="DOI"></a> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/bcdavasconcelos/Corpora" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/bcdavasconcelos/Corpora" /> <img alt="Github License" src="https://img.shields.io/github/license/bcdavasconcelos/Corpora" />
 
 Alfred workflow and Keyboard Maestro macro for fast access to _Perseus Catalog_, _Thesaurus Linguae Graecae_ and _LOEB Classical Library_ 
 
